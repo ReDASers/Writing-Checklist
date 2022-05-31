@@ -1,4 +1,4 @@
-name: Compile Resume
+name: Compile Checklist
 on:
   push:
     branches:
